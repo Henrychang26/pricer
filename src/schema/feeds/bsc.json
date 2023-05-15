@@ -1,0 +1,1072 @@
+[
+    {
+        "name": "1INCH / USD",
+        "category": "verified",
+        "path": "1inch-usd",
+        "base": "1INCH",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xd690b2CF0D2bcBce51c4cE2dc46E02C508465c5c",
+        "proxyAddress": "0x9a177Bb9f5b6083E962f9e62bD21d4b5660Aeb03"
+    },
+    {
+        "name": "AAVE / USD",
+        "category": "verified",
+        "path": "aave-usd",
+        "base": "AAVE",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x7457f14cE4773EBEb1352D2774Ec384a54c2F665",
+        "proxyAddress": "0xA8357BF572460fC40f4B0aCacbB2a6A61c89f475"
+    },
+    {
+        "name": "ADA / BNB",
+        "category": "verified",
+        "path": "ada-bnb",
+        "base": "ADA",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x50204D36C231CD4F0De67545Cd1E36C01336e46b",
+        "proxyAddress": "0x2d5Fc41d1365fFe13d03d91E82e04Ca878D69f4B"
+    },
+    {
+        "name": "ADA / USD",
+        "category": "verified",
+        "path": "ada-usd",
+        "base": "ADA",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x2028b4a27c14263Ba00C75c42cfe524E705031F4",
+        "proxyAddress": "0xa767f745331D267c7751297D982b050c93985627"
+    },
+    {
+        "name": "ALPACA / USD",
+        "category": "verified",
+        "path": "alpaca-usd",
+        "base": "ALPACA",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x481E278Bf87281CF12342A4302e799Bf8515b985",
+        "proxyAddress": "0xe0073b60833249ffd1bb2af809112c2fbf221DF6"
+    },
+    {
+        "name": "ALPHA / BNB",
+        "category": "verified",
+        "path": "alpha-bnb",
+        "base": "ALPHA",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x9c0Ab19514D52196B09B04294937ECEC2Dc69950",
+        "proxyAddress": "0x7bC032A7C19B1BdCb981D892854d090cfB0f238E"
+    },
+    {
+        "name": "ARPA / USD",
+        "category": "verified",
+        "path": "arpa-usd",
+        "base": "ARPA",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x4849167844B7c8074B3Da31332AA547a17877b63",
+        "proxyAddress": "0x31E0110f8c1376a699C8e3E65b5110e0525A811d"
+    },
+    {
+        "name": "ATOM / USD",
+        "category": "verified",
+        "path": "atom-usd",
+        "base": "ATOM",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x2e9c2B44D3f5702D2654c20260E8e010656D9777",
+        "proxyAddress": "0xb056B7C804297279A9a673289264c17E6Dc6055d"
+    },
+    {
+        "name": "AUTO / USD",
+        "category": "verified",
+        "path": "auto-usd",
+        "base": "AUTO",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x5Ff27E78AE8fc4C329De7064ebe7FEbdE859af0A",
+        "proxyAddress": "0x88E71E6520E5aC75f5338F5F0c9DeD9d4f692cDA"
+    },
+    {
+        "name": "AVAX / USD",
+        "category": "verified",
+        "path": "avax-usd",
+        "base": "AVAX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xB4C0F8F07a5e5d870bC02457213809B9cb5F56C4",
+        "proxyAddress": "0x5974855ce31EE8E1fff2e76591CbF83D7110F151"
+    },
+    {
+        "name": "AXS / USD",
+        "category": "verified",
+        "path": "axs-usd",
+        "base": "AXS",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xc0850B8587cffA166985fa397e8391fecA959f3f",
+        "proxyAddress": "0x7B49524ee5740c99435f52d731dFC94082fE61Ab"
+    },
+    {
+        "name": "BAND / BNB",
+        "category": "verified",
+        "path": "band-bnb",
+        "base": "BAND",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x3331b2d33E9a472f6b34C150D47017d75b4CD088",
+        "proxyAddress": "0x3334bF7ec892Ca03D1378B51769b7782EAF318C4"
+    },
+    {
+        "name": "BAND / USD",
+        "category": "verified",
+        "path": "band-usd",
+        "base": "BAND",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x8A73214adB7a23334371Cb7C0c6165973F45Cd42",
+        "proxyAddress": "0xC78b99Ae87fF43535b0C782128DB3cB49c74A4d3"
+    },
+    {
+        "name": "BCH / BNB",
+        "category": "verified",
+        "path": "bch-bnb",
+        "base": "BCH",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x38d0f1dfE37Aac059aD06B2d30Ef60AA537f0b05",
+        "proxyAddress": "0x2a548935a323Bb7329a5E3F1667B979f16Bc890b"
+    },
+    {
+        "name": "BCH / USD",
+        "category": "verified",
+        "path": "bch-usd",
+        "base": "BCH",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xF78feB6c096117Bfb9283aa1eAc304449E04d374",
+        "proxyAddress": "0x43d80f616DAf0b0B42a928EeD32147dC59027D41"
+    },
+    {
+        "name": "BETH / USD",
+        "category": "verified",
+        "path": "beth-usd",
+        "base": "BETH",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x4c935c5C9a6BADC0855AD3B5867BCFf90c8bD5eC",
+        "proxyAddress": "0x2A3796273d47c4eD363b361D3AEFb7F7E2A13782"
+    },
+    {
+        "name": "BIFI / USD",
+        "category": "monitored",
+        "path": "bifi-usd",
+        "base": "BIFI",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x43c70DB4018857eB6c4D6aA40880f144033AEAf5",
+        "proxyAddress": "0xaB827b69daCd586A37E80A7d552a4395d576e645"
+    },
+    {
+        "name": "BNB / USD",
+        "category": "verified",
+        "path": "bnb-usd",
+        "base": "BNB",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x137924D7C36816E0DcAF016eB617Cc2C92C05782",
+        "proxyAddress": "0x0567F2323251f0Aab15c8dFb1967E4e8A7D42aeE"
+    },
+    {
+        "name": "Calculated BNBx / USD",
+        "category": "custom",
+        "path": "bnbx-usd",
+        "base": "BNBX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xf230822f96bc8819e037db85695fc093d2C68Ccd",
+        "proxyAddress": "0xc4429B539397a3166eF3ef132c29e34715a3ABb4"
+    },
+    {
+        "name": "BSW / USD",
+        "category": "verified",
+        "path": "bsw-usd",
+        "base": "BSW",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xC430481d7f5b670623c70420643AC5EfA0D7c95d",
+        "proxyAddress": "0x08E70777b982a58D23D05E3D7714f44837c06A21"
+    },
+    {
+        "name": "BTC / BNB",
+        "category": "verified",
+        "path": "btc-bnb",
+        "base": "BTC",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x7E90d60D3207A96FAaBB895C9c7DeE2E2CaBa0Fd",
+        "proxyAddress": "0x116EeB23384451C78ed366D4f67D5AD44eE771A0"
+    },
+    {
+        "name": "BTC / ETH",
+        "category": "verified",
+        "path": "btc-eth",
+        "base": "BTC",
+        "quote": "ETH",
+        "decimals": 18,
+        "contractAddress": "0x343FB6A2ED16509a934880Abc82d0251867B70f4",
+        "proxyAddress": "0xf1769eB4D1943AF02ab1096D7893759F6177D6B8"
+    },
+    {
+        "name": "BTC / USD",
+        "category": "verified",
+        "path": "btc-usd",
+        "base": "BTC",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x178bA789e24A1d51E9Ea3Cb1Db3B52917963D71D",
+        "proxyAddress": "0x264990fbd0A4796A3E3d8E37C4d5F87a3aCa5Ebf"
+    },
+    {
+        "name": "BUSD / BNB",
+        "category": "verified",
+        "path": "busd-bnb",
+        "base": "BUSD",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x76303936B9DF69474A57352765faCEca2bf9C7Ef",
+        "proxyAddress": "0x87Ea38c9F24264Ec1Fff41B04ec94a97Caf99941"
+    },
+    {
+        "name": "BUSD / USD",
+        "category": "verified",
+        "path": "busd-usd",
+        "base": "BUSD",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x7A6BB3a3C0C99bA43564017D7523a74BA0f7cB5d",
+        "proxyAddress": "0xcBb98864Ef56E9042e7d2efef76141f15731B82f"
+    },
+    {
+        "name": "C98 / USD",
+        "category": "verified",
+        "path": "c98-usd",
+        "base": "C98",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xacBf98E423Bb8458397dF2d4Cc9eE031879Fd59F",
+        "proxyAddress": "0x889158E39628C0397DC54B84F6b1cbe0AaEb7FFc"
+    },
+    {
+        "name": "CAKE / BNB",
+        "category": "verified",
+        "path": "cake-bnb",
+        "base": "CAKE",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x370d7b33330d40c55e8e71aFD88eFB31E9Dcc620",
+        "proxyAddress": "0xcB23da9EA243f53194CBc2380A6d4d9bC046161f"
+    },
+    {
+        "name": "CAKE / USD",
+        "category": "verified",
+        "path": "cake-usd",
+        "base": "CAKE",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x7935a51aDDaB8550D346FEEf34e02F67C9330109",
+        "proxyAddress": "0xB6064eD41d4f67e353768aA239cA86f4F73665a1"
+    },
+    {
+        "name": "CFX / USD",
+        "category": "verified",
+        "path": "cfx-usd",
+        "base": "CFX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x3889e2FD71BB7a0600Da48D98CD579b2A1d39F51",
+        "proxyAddress": "0xe3cA2f3Bad1D8327820f648C759f17162b5383ae"
+    },
+    {
+        "name": "CHR / USD",
+        "category": "verified",
+        "path": "chr-usd",
+        "base": "CHR",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x9eBB8330dff88F3D9E743E8240177cdCD3292103",
+        "proxyAddress": "0x1f771B2b1F3c3Db6C7A1d5F38961a49CEcD116dA"
+    },
+    {
+        "name": "COMP / USD",
+        "category": "verified",
+        "path": "comp-usd",
+        "base": "COMP",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x94069ff23E3a962646638b2Bb44d4d7F664DCCbD",
+        "proxyAddress": "0x0Db8945f9aEf5651fa5bd52314C5aAe78DfDe540"
+    },
+    {
+        "name": "CREAM / BNB",
+        "category": "verified",
+        "path": "cream-bnb",
+        "base": "CREAM",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x4a2A603d64C807C6532053EF808117048ac9990a",
+        "proxyAddress": "0x6f55DFAf098a813d87BB4e6392275b502360Bb9D"
+    },
+    {
+        "name": "CRV / USD",
+        "category": "verified",
+        "path": "crv-usd",
+        "base": "CRV",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x3f57d674804DfC9F5CA927531969012C5C9095bd",
+        "proxyAddress": "0x2e1C3b6Fcae47b20Dd343D9354F7B1140a1E6B27"
+    },
+    {
+        "name": "DAI / BNB",
+        "category": "verified",
+        "path": "dai-bnb",
+        "base": "DAI",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x000f46946d47647c04A5f10269e9084FB8c8637A",
+        "proxyAddress": "0x8EC213E7191488C7873cEC6daC8e97cdbAdb7B35"
+    },
+    {
+        "name": "DAI / USD",
+        "category": "verified",
+        "path": "dai-usd",
+        "base": "DAI",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x09A183232a9184ae07CEee3c0401f7435D42efdF",
+        "proxyAddress": "0x132d3C0B1D2cEa0BC552588063bdBb210FDeecfA"
+    },
+    {
+        "name": "DF / USD",
+        "category": "monitored",
+        "path": "df-usd",
+        "base": "DF",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xf0EcE271b1c02128e30C5797C0D76b2c9c36ec17",
+        "proxyAddress": "0x1b816F5E122eFa230300126F97C018716c4e47F5"
+    },
+    {
+        "name": "DODO / BNB",
+        "category": "verified",
+        "path": "dodo-bnb",
+        "base": "DODO",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x5D22062a0f28C476091D7023E7D2a240bA7e6b96",
+        "proxyAddress": "0x120ae15CB86060527BFD431Abd3FF51890D2032C"
+    },
+    {
+        "name": "DODO / USD",
+        "category": "verified",
+        "path": "dodo-usd",
+        "base": "DODO",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x0Ad45915fC60a08dEcD39D27ad69AC10966C82C0",
+        "proxyAddress": "0x87701B15C08687341c2a847ca44eCfBc8d7873E1"
+    },
+    {
+        "name": "DOGE / USD",
+        "category": "verified",
+        "path": "doge-usd",
+        "base": "DOGE",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xd0A597FfC7075E1449eCE7fEaA9880488dDB34FD",
+        "proxyAddress": "0x3AB0A0d137D4F946fBB19eecc6e92E64660231C8"
+    },
+    {
+        "name": "DOT / BNB",
+        "category": "verified",
+        "path": "dot-bnb",
+        "base": "DOT",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x390B935CdB6fC4924D203a398DA160178efe7b8A",
+        "proxyAddress": "0xBA8683E9c3B1455bE6e18E7768e8cAD95Eb5eD49"
+    },
+    {
+        "name": "DOT / USD",
+        "category": "verified",
+        "path": "dot-usd",
+        "base": "DOT",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xe978DaA50D3A8574F139c1e3Fe5D511dDb323BC5",
+        "proxyAddress": "0xC333eb0086309a16aa7c8308DfD32c8BBA0a2592"
+    },
+    {
+        "name": "EOS / BNB",
+        "category": "verified",
+        "path": "eos-bnb",
+        "base": "EOS",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x73D17dbB9d4d520Ca4D260c359994d8a2Aa4cDa3",
+        "proxyAddress": "0xed93F3764334788f2f6628b30e505fe1fc5d1D7b"
+    },
+    {
+        "name": "EOS / USD",
+        "category": "verified",
+        "path": "eos-usd",
+        "base": "EOS",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x0C1A3fa6Cc1a91F751A9232cC5D6Be9700a93Fc7",
+        "proxyAddress": "0xd5508c8Ffdb8F15cE336e629fD4ca9AdB48f50F0"
+    },
+    {
+        "name": "ETH / BNB",
+        "category": "verified",
+        "path": "eth-bnb",
+        "base": "ETH",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x2813fAB00b38189AcB8D805A687222Ae1034D53a",
+        "proxyAddress": "0x63D407F32Aa72E63C7209ce1c2F5dA40b3AaE726"
+    },
+    {
+        "name": "ETH / USD",
+        "category": "verified",
+        "path": "eth-usd",
+        "base": "ETH",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xfC3069296a691250fFDf21fe51340fdD415a76ed",
+        "proxyAddress": "0x9ef1B8c0E4F7dc8bF5719Ea496883DC6401d5b2e"
+    },
+    {
+        "name": "FET / USD",
+        "category": "verified",
+        "path": "fet-usd",
+        "base": "FET",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xb2B7c2d554F52dAeC37974b2E335c98cdA8cEB3A",
+        "proxyAddress": "0x657e700c66C48c135c4A29c4292908DbdA7aa280"
+    },
+    {
+        "name": "FIL / USD",
+        "category": "verified",
+        "path": "fil-usd",
+        "base": "FIL",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x8f8289E5CA9a4C867ec7A257b0E9Dd1132093E23",
+        "proxyAddress": "0xE5dbFD9003bFf9dF5feB2f4F445Ca00fb121fb83"
+    },
+    {
+        "name": "FRAX / USD",
+        "category": "monitored",
+        "path": "frax-usd",
+        "base": "FRAX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x673DA2F5eaE6860F7b1249e2CbCca433834a1EB3",
+        "proxyAddress": "0x13A9c98b07F098c5319f4FF786eB16E22DC738e1"
+    },
+    {
+        "name": "FTM / USD",
+        "category": "verified",
+        "path": "ftm-usd",
+        "base": "FTM",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xf5C16d009af1F1d3395883d9d7e626472D2dd6B8",
+        "proxyAddress": "0xe2A47e87C0f4134c8D06A41975F6860468b2F925"
+    },
+    {
+        "name": "FTT / USD",
+        "category": "monitored",
+        "path": "ftt-usd",
+        "base": "FTT",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x122400b06aAC5ba901492035aFC99d3a5C262330",
+        "proxyAddress": "0x38E05754Eb00171cBE72bA1eE792933d6e8d2891"
+    },
+    {
+        "name": "FXS / USD",
+        "category": "verified",
+        "path": "fxs-usd",
+        "base": "FXS",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x36Eb75b819dF05FB868b16074dF1A9c4354082c0",
+        "proxyAddress": "0x0E9D55932893Fb1308882C7857285B2B0bcc4f4a"
+    },
+    {
+        "name": "GMT / USD",
+        "category": "verified",
+        "path": "gmt-usd",
+        "base": "GMT",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xEFc3be9286c4aE5c712BaB1182204086Ba0c45B6",
+        "proxyAddress": "0x8b0D36ae4CF8e277773A7ba5F35c09Edb144241b"
+    },
+    {
+        "name": "HIGH / USD",
+        "category": "verified",
+        "path": "high-usd",
+        "base": "HIGH",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x0D5aB38D37A5B5427B971E10F99e8c06599260Af",
+        "proxyAddress": "0xdF4Dd957a84F798acFADd448badd2D8b9bC99047"
+    },
+    {
+        "name": "ICP / USD",
+        "category": "verified",
+        "path": "icp-usd",
+        "base": "ICP",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xFB3e6157BA71C0d8853690C4Fd3ff88109A79103",
+        "proxyAddress": "0x84210d9013A30C6ab169e28840A6CC54B60fa042"
+    },
+    {
+        "name": "INJ / USD",
+        "category": "verified",
+        "path": "inj-usd",
+        "base": "INJ",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x4d70d497CeF3674be370586230F9a2f4b30CFF11",
+        "proxyAddress": "0x63A9133cd7c611d6049761038C16f238FddA71d7"
+    },
+    {
+        "name": "KAVA / USD",
+        "category": "verified",
+        "path": "kava-usd",
+        "base": "KAVA",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x2029297624088ea9e3eE549E40d33d4966Ce1C63",
+        "proxyAddress": "0x12bf0C3f7D5aca9E711930d704dA2774358d9210"
+    },
+    {
+        "name": "KLAY / USD",
+        "category": "verified",
+        "path": "klay-usd",
+        "base": "KLAY",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x00865e449e123BA4C3A46D614330dA56b739f723",
+        "proxyAddress": "0xfD07b211044572898cDbcb1435f0a1369Fd15726"
+    },
+    {
+        "name": "KNC / USD",
+        "category": "verified",
+        "path": "knc-usd",
+        "base": "KNC",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x982675D04D9c9fA074c702f5AcA3d84D04FE31D5",
+        "proxyAddress": "0xF2f8273F6b9Fc22C90891DC802cAf60eeF805cDF"
+    },
+    {
+        "name": "LINA / USD",
+        "category": "verified",
+        "path": "lina-usd",
+        "base": "LINA",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xE6Ff236A76594a9A1Da727cA42B29c7B3ac0d45A",
+        "proxyAddress": "0x38393201952f2764E04B290af9df427217D56B41"
+    },
+    {
+        "name": "LINK / BNB",
+        "category": "verified",
+        "path": "link-bnb",
+        "base": "LINK",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x678f2883BB67104273229463ddA15Ee841584b36",
+        "proxyAddress": "0xB38722F6A608646a538E882Ee9972D15c86Fc597"
+    },
+    {
+        "name": "LINK / USD",
+        "category": "verified",
+        "path": "link-usd",
+        "base": "LINK",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x0B67AD077Fa839F6737A1630c89eE1A1572989c6",
+        "proxyAddress": "0xca236E327F629f9Fc2c30A4E95775EbF0B89fac8"
+    },
+    {
+        "name": "LIT / USD",
+        "category": "verified",
+        "path": "lit-usd",
+        "base": "LIT",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xF23D01646Fe967A6c403Defdff24299040Fd4935",
+        "proxyAddress": "0x83766bA8d964fEAeD3819b145a69c947Df9Cb035"
+    },
+    {
+        "name": "LTC / BNB",
+        "category": "verified",
+        "path": "ltc-bnb",
+        "base": "LTC",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x80519EcaD69B8E43C6690b73554379BfdF0eF79E",
+        "proxyAddress": "0x4e5a43A79f53c0a8e83489648Ea7e429278f8b2D"
+    },
+    {
+        "name": "LTC / USD",
+        "category": "verified",
+        "path": "ltc-usd",
+        "base": "LTC",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xB92B265908775B59517eC1fC6C6635f7E1D60f1D",
+        "proxyAddress": "0x74E72F37A8c415c8f1a98Ed42E78Ff997435791D"
+    },
+    {
+        "name": "MASK / USD",
+        "category": "verified",
+        "path": "mask-usd",
+        "base": "MASK",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xF1eed6F4A9006B3Cf8f547B36d055b97EF50DE8b",
+        "proxyAddress": "0x4978c0abE6899178c1A74838Ee0062280888E2Cf"
+    },
+    {
+        "name": "MATIC / USD",
+        "category": "verified",
+        "path": "matic-usd",
+        "base": "MATIC",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xeC1Ca9c5Dd897F832CDe3D43BB041f5e01380757",
+        "proxyAddress": "0x7CA57b0cA6367191c94C8914d7Df09A57655905f"
+    },
+    {
+        "name": "MBOX / USD",
+        "category": "verified",
+        "path": "mbox-usd",
+        "base": "MBOX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xCE75B866Ec86Ac261Ea191F0BC7820FB296C2477",
+        "proxyAddress": "0x1AAE42AA46483370Be23274Abb29Bcc40f808a4c"
+    },
+    {
+        "name": "MDX / USD",
+        "category": "monitored",
+        "path": "mdx-usd",
+        "base": "MDX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xf23C2aa8c9e8E2e6E48257c495E624CA87Bb14BC",
+        "proxyAddress": "0x9165366bf450a6906D25549f0E0f8E6586Fc93E2"
+    },
+    {
+        "name": "MIM / USD",
+        "category": "monitored",
+        "path": "mim-usd",
+        "base": "MIM",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x87a69a2988b33ea745008A47486890232630AABf",
+        "proxyAddress": "0xc9D267542B23B41fB93397a93e5a1D7B80Ea5A01"
+    },
+    {
+        "name": "NEAR / USD",
+        "category": "verified",
+        "path": "near-usd",
+        "base": "NEAR",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x40B8039e1A5A831b493C15164228A1839dd5b62a",
+        "proxyAddress": "0x0Fe4D87883005fCAFaF56B81d09473D9A29dCDC3"
+    },
+    {
+        "name": "NULS / USD",
+        "category": "verified",
+        "path": "nuls-usd",
+        "base": "NULS",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x9e88f327778810E386eB2eBf6619A74d4D7568c6",
+        "proxyAddress": "0xaCFBE73231d312AC6954496b3f786E892bF0f7e5"
+    },
+    {
+        "name": "ONG / USD",
+        "category": "verified",
+        "path": "ong-usd",
+        "base": "ONG",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xCB2ac1D2e2582dE7b5EFbB174f04B1D8Ecd2d043",
+        "proxyAddress": "0xcF95796f3016801A1dA5C518Fc7A59C51dcEf793"
+    },
+    {
+        "name": "ONT / USD",
+        "category": "verified",
+        "path": "ont-usd",
+        "base": "ONT",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x586E5572217D68643E1de6a0d40Cb37B0961A11a",
+        "proxyAddress": "0x887f177CBED2cf555a64e7bF125E1825EB69dB82"
+    },
+    {
+        "name": "PAXG / USD",
+        "category": "verified",
+        "path": "paxg-usd",
+        "base": "PAXG",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x6FfA7c72cCd821A4dB68FD75Ee465dd09AA8C088",
+        "proxyAddress": "0x7F8caD4690A38aC28BDA3D132eF83DB1C17557Df"
+    },
+    {
+        "name": "RDNT / USD",
+        "category": "verified",
+        "path": "rdnt-usd",
+        "base": "RDNT",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xe17703A1819d23cF5977814B92021834feBd4eB3",
+        "proxyAddress": "0x20123C6ebd45c6496102BeEA86e1a6616Ca547c6"
+    },
+    {
+        "name": "REEF / USD",
+        "category": "verified",
+        "path": "reef-usd",
+        "base": "REEF",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x066D0CD30f981a96e2fE4F958c5E7F4999BE0AdF",
+        "proxyAddress": "0x46f13472A4d4FeC9E07E8A00eE52f4Fa77810736"
+    },
+    {
+        "name": "Calculated SAVAX / USD",
+        "category": "custom",
+        "path": "savax-usd",
+        "base": "SAVAX",
+        "quote": "USD",
+        "decimals": 18,
+        "contractAddress": "0x338b40CaAef0267191a1869aC5ef9E7945949aeA",
+        "proxyAddress": "0x3b37C6f1e3207DE5a4664E837072Bd9A25269B39"
+    },
+    {
+        "name": "SHIB / USD",
+        "category": "verified",
+        "path": "shib-usd",
+        "base": "SHIB",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x19Ec74fd763db58B77E6EC6b556B9c594ca67ABB",
+        "proxyAddress": "0xA615Be6cb0f3F36A641858dB6F30B9242d0ABeD8"
+    },
+    {
+        "name": "SOL / USD",
+        "category": "verified",
+        "path": "sol-usd",
+        "base": "SOL",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x14E9D15c1EcD428606c443Ed715631b5C444a49e",
+        "proxyAddress": "0x0E8a53DD9c13589df6382F13dA6B3Ec8F919B323"
+    },
+    {
+        "name": "SPELL / USD",
+        "category": "verified",
+        "path": "spell-usd",
+        "base": "SPELL",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x76c8Ab236643e68539766CE00eac8Fb582199183",
+        "proxyAddress": "0x47e01580C537Cd47dA339eA3a4aFb5998CCf037C"
+    },
+    {
+        "name": "SUSHI / USD",
+        "category": "verified",
+        "path": "sushi-usd",
+        "base": "SUSHI",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x761Eff952671395708f22c5a7d5673685277A5c3",
+        "proxyAddress": "0xa679C72a97B654CFfF58aB704de3BA15Cde89B07"
+    },
+    {
+        "name": "SXP / USD",
+        "category": "verified",
+        "path": "sxp-usd",
+        "base": "SXP",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x5ba2B3A2a41141Aa55Fc72C40d6643aEE12BD0B6",
+        "proxyAddress": "0xE188A9875af525d25334d75F3327863B2b8cd0F1"
+    },
+    {
+        "name": "TRX / USD",
+        "category": "verified",
+        "path": "trx-usd",
+        "base": "TRX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xb7EE93d3E0586571D481F9d967d82383BB460B38",
+        "proxyAddress": "0xF4C5e535756D11994fCBB12Ba8adD0192D9b88be"
+    },
+    {
+        "name": "TUSD / USD",
+        "category": "verified",
+        "path": "tusd-usd",
+        "base": "TUSD",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x916aaDaCeb786351c7e810C6a4E8071cf00CEeC8",
+        "proxyAddress": "0xa3334A9762090E827413A7495AfeCE76F41dFc06"
+    },
+    {
+        "name": "TWT / BNB",
+        "category": "verified",
+        "path": "twt-bnb",
+        "base": "TWT",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x8dbb48f934b02E891e19Ec09f76B54f3ED5f01Ee",
+        "proxyAddress": "0x7E728dFA6bCa9023d9aBeE759fDF56BEAb8aC7aD"
+    },
+    {
+        "name": "UNI / BNB",
+        "category": "verified",
+        "path": "uni-bnb",
+        "base": "UNI",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x0Cee6620d87FD023800795D565A71fE214777aeb",
+        "proxyAddress": "0x25298F020c3CA1392da76Eb7Ac844813b218ccf7"
+    },
+    {
+        "name": "UNI / USD",
+        "category": "verified",
+        "path": "uni-usd",
+        "base": "UNI",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x52Bd76d61D59a4F4B740FD31B97aFaD6217F960D",
+        "proxyAddress": "0xb57f259E7C24e56a1dA00F66b55A5640d9f9E7e4"
+    },
+    {
+        "name": "USDC / BNB",
+        "category": "verified",
+        "path": "usdc-bnb",
+        "base": "USDC",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0xc98fb42526666963d2b43a1ca5C3dc04fe744cdb",
+        "proxyAddress": "0x45f86CA2A8BC9EBD757225B19a1A0D7051bE46Db"
+    },
+    {
+        "name": "USDC / USD",
+        "category": "verified",
+        "path": "usdc-usd",
+        "base": "USDC",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x7008fDEd94a8Ce68D01FEB633C4D81C2be7a1B20",
+        "proxyAddress": "0x51597f405303C4377E36123cBc172b13269EA163"
+    },
+    {
+        "name": "USDT / BNB",
+        "category": "verified",
+        "path": "usdt-bnb",
+        "base": "USDT",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0xF1703b483822f12Bf0D84296F2266196Ca9C352b",
+        "proxyAddress": "0xD5c40f5144848Bd4EF08a9605d860e727b991513"
+    },
+    {
+        "name": "USDT / USD",
+        "category": "verified",
+        "path": "usdt-usd",
+        "base": "USDT",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x2dc202b56A03667cC240B290c2BE2b8453E89eA1",
+        "proxyAddress": "0xB97Ad0E74fa7d920791E90258A6E2085088b4320"
+    },
+    {
+        "name": "VAI / USD",
+        "category": "monitored",
+        "path": "vai-usd",
+        "base": "VAI",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xC04121E448DAC0BA66c0C76b28b5512Cf08bD41A",
+        "proxyAddress": "0x058316f8Bb13aCD442ee7A216C7b60CFB4Ea1B53"
+    },
+    {
+        "name": "VET / USD",
+        "category": "verified",
+        "path": "vet-usd",
+        "base": "VET",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x6297c4cd4002F8c1ECe816dF53D5cdeeead10C25",
+        "proxyAddress": "0x9f1fD2cEf7b226D555A747DA0411F93c5fe74e13"
+    },
+    {
+        "name": "WIN / USD",
+        "category": "verified",
+        "path": "win-usd",
+        "base": "WIN",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x2BCBF9e068E889A613A8E4366c88412977869C0A",
+        "proxyAddress": "0x9e7377E194E41d63795907c92c3EB351a2eb0233"
+    },
+    {
+        "name": "WING / USD",
+        "category": "verified",
+        "path": "wing-usd",
+        "base": "WING",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xf8Aa2505865E12b606438312FF572Bf8119E4A65",
+        "proxyAddress": "0xf7E7c0ffCB11dAC6eCA1434C67faB9aE000e10a7"
+    },
+    {
+        "name": "WOO / USD",
+        "category": "verified",
+        "path": "woo-usd",
+        "base": "WOO",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xFBd2fED777DaaB126041b193006DE529118Eaf95",
+        "proxyAddress": "0x02Bfe714e78E2Ad1bb1C2beE93eC8dc5423B66d4"
+    },
+    {
+        "name": "XLM / USD",
+        "category": "verified",
+        "path": "xlm-usd",
+        "base": "XLM",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x266C0eefc329bb610B1e79267D836bca88648AaE",
+        "proxyAddress": "0x27Cc356A5891A3Fe6f84D0457dE4d108C6078888"
+    },
+    {
+        "name": "XRP / BNB",
+        "category": "verified",
+        "path": "xrp-bnb",
+        "base": "XRP",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x0877689c510f099FB968906223ab0a3F556d4f2B",
+        "proxyAddress": "0x798A65D349B2B5E6645695912880b54dfFd79074"
+    },
+    {
+        "name": "XRP / USD",
+        "category": "verified",
+        "path": "xrp-usd",
+        "base": "XRP",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x5C0F367A778857B36E88B553df132b232AC34901",
+        "proxyAddress": "0x93A67D414896A280bF8FFB3b389fE3686E014fda"
+    },
+    {
+        "name": "XTZ / BNB",
+        "category": "verified",
+        "path": "xtz-bnb",
+        "base": "XTZ",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0x1255E2748A3A26b248d654B5194CdeFc4594b90A",
+        "proxyAddress": "0x8264d6983B219be65C4D62f1c82B3A2999944cF2"
+    },
+    {
+        "name": "XTZ / USD",
+        "category": "verified",
+        "path": "xtz-usd",
+        "base": "XTZ",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x5CeefEC70Fb4819B9CE2dEaa6355c77E3243e640",
+        "proxyAddress": "0x9A18137ADCF7b05f033ad26968Ed5a9cf0Bf8E6b"
+    },
+    {
+        "name": "XVS / BNB",
+        "category": "verified",
+        "path": "xvs-bnb",
+        "base": "XVS",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0xE0A0Bc15e8Cbe87e9b6307693A368085E164878a",
+        "proxyAddress": "0xf369A13E7f2449E58DdE8302F008eE9131f8d859"
+    },
+    {
+        "name": "XVS / USD",
+        "category": "verified",
+        "path": "xvs-usd",
+        "base": "XVS",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xD051e4050dAd55285EEDbC186095C0Ccb7054944",
+        "proxyAddress": "0xBF63F430A79D4036A5900C19818aFf1fa710f206"
+    },
+    {
+        "name": "YFI / BNB",
+        "category": "verified",
+        "path": "yfi-bnb",
+        "base": "YFI",
+        "quote": "BNB",
+        "decimals": 18,
+        "contractAddress": "0xD2a2976cdf5098971DaA56878212Cdb24Ecb0CbB",
+        "proxyAddress": "0xF841761481DF19831cCC851A54D8350aE6022583"
+    },
+    {
+        "name": "YFI / USD",
+        "category": "verified",
+        "path": "yfi-usd",
+        "base": "YFI",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xd29cFB96e80fCBA432713B7aE5086a6718d4E046",
+        "proxyAddress": "0xD7eAa5Bf3013A96e3d515c055Dbd98DbdC8c620D"
+    },
+    {
+        "name": "YFII / USD",
+        "category": "verified",
+        "path": "yfii-usd",
+        "base": "YFII",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xAB05DFc2e4aF7fb1b512306e3E0a3617992BB6E2",
+        "proxyAddress": "0xC94580FAaF145B2FD0ab5215031833c98D3B77E4"
+    },
+    {
+        "name": "ZIL / USD",
+        "category": "verified",
+        "path": "zil-usd",
+        "base": "ZIL",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x0D14D66DcB20b9EC4e9679AC8E4775a314D2E298",
+        "proxyAddress": "0x3e3aA4FC329529C8Ab921c810850626021dbA7e6"
+    }
+]

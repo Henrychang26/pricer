@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "hardhat": "hardhat",
+    "build:contract": "npm run clean && npm run compile",
+    "clean": "hardhat clean",
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "generate:feed": "npx ts-node scripts/generateFeedLists.ts",
+    "generate:token": "npx ts-node scripts/generateTokenLists.ts"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@uniswap/sdk-core": "^3.2.2",
+    "@uniswap/v3-sdk": "^3.9.0",
+    "axios": "^1.3.4",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.13.0",
+    "jsbi": "^4.3.0",
+    "tiny-invariant": "^1.3.1"
+  }
+}

@@ -1,0 +1,562 @@
+[
+    {
+        "name": "AAVE / USD",
+        "category": "verified",
+        "path": "aave-usd",
+        "base": "AAVE",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x81cC0c227BF9bFB8088b14755DfcA65f7892203b",
+        "proxyAddress": "0x338ed6787f463394D24813b297401B9F05a8C9d1"
+    },
+    {
+        "name": "ADA / USD",
+        "category": "verified",
+        "path": "ada-usd",
+        "base": "ADA",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xC2262cA31b16AE1Cfe6F7612f49E79B821e31162",
+        "proxyAddress": "0x43dEa17DeE1ca50c6266acb59b32659E44D3ee5D"
+    },
+    {
+        "name": "APE / USD",
+        "category": "verified",
+        "path": "ape-usd",
+        "base": "APE",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x2Dd486F1FA76Fd1228a9c818C552c6A92F138453",
+        "proxyAddress": "0x89178957E9bD07934d7792fFc0CF39f11c8C2B1F"
+    },
+    {
+        "name": "APT / USD",
+        "category": "verified",
+        "path": "apt-usd",
+        "base": "APT",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x3442bB3aD11957449D9Af5aCE9d17709240dcCe7",
+        "proxyAddress": "0x48f2EcF0Bd180239AEF474a9da945F2e2d41daA3"
+    },
+    {
+        "name": "ARB / USD",
+        "category": "verified",
+        "path": "arb-usd",
+        "base": "ARB",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x7E36B8C677D84556B4742F9d7791019bC7d408Db",
+        "proxyAddress": "0x8f14546d0B960793180ee355B73fA55041a4a356"
+    },
+    {
+        "name": "ATOM / USD",
+        "category": "verified",
+        "path": "atom-usd",
+        "base": "ATOM",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x81d9a9056e9Af6585010B784Df5853a0fDEf8b11",
+        "proxyAddress": "0xEF89db2eA46B4aD4E333466B6A486b809e613F39"
+    },
+    {
+        "name": "AVAX / USD",
+        "category": "verified",
+        "path": "avax-usd",
+        "base": "AVAX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xa6d25eEBae9c841C44AD01c9176556a4c2189961",
+        "proxyAddress": "0x5087Dc69Fd3907a016BD42B38022F7f024140727"
+    },
+    {
+        "name": "AXS / USD",
+        "category": "verified",
+        "path": "axs-usd",
+        "base": "AXS",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x7A18889f137B593f4E03C0A698A4360f43d1731c",
+        "proxyAddress": "0x805a61D54bb686e57F02D1EC96A1491C7aF40893"
+    },
+    {
+        "name": "BAL / USD",
+        "category": "verified",
+        "path": "bal-usd",
+        "base": "BAL",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x44f690526B76D91072fb0427B0A24b882E612455",
+        "proxyAddress": "0x30D9d31C1ac29Bc2c2c312c1bCa9F8b3D60e2376"
+    },
+    {
+        "name": "BCH / USD",
+        "category": "verified",
+        "path": "bch-usd",
+        "base": "BCH",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x9c41500de0162Cc0bC4798982C867860C1601a60",
+        "proxyAddress": "0x33E047119359161288bcB143e0C15467C7151d4c"
+    },
+    {
+        "name": "BNB / USD",
+        "category": "verified",
+        "path": "bnb-usd",
+        "base": "BNB",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x25dD1949cDb81f5fc38841a8abF342c4EF48dbfd",
+        "proxyAddress": "0xD38579f7cBD14c22cF1997575eA8eF7bfe62ca2c"
+    },
+    {
+        "name": "BOND / USD",
+        "category": "verified",
+        "path": "bond-usd",
+        "base": "BOND",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x3b06B9b3ead7Ec34AE67E2D7f73B128dA09C583a",
+        "proxyAddress": "0x8fCfb87fc17CfD5775d234AcFd1753764899Bf20"
+    },
+    {
+        "name": "BTC / USD",
+        "category": "verified",
+        "path": "btc-usd",
+        "base": "BTC",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x0C1272d2aC652D10d03bb4dEB0D31F15ea3EAb2b",
+        "proxyAddress": "0xD702DD976Fb76Fffc2D3963D037dfDae5b04E593"
+    },
+    {
+        "name": "BUSD / USD",
+        "category": "verified",
+        "path": "busd-usd",
+        "base": "BUSD",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xD24E1CdD2F9c0A070F73081B5f79BdD0d42EFA2f",
+        "proxyAddress": "0xC1cB3b7cbB3e786aB85ea28489f332f4FAEd5Bc4"
+    },
+    {
+        "name": "CRV / USD",
+        "category": "verified",
+        "path": "crv-usd",
+        "base": "CRV",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x7c56d3650f9aCD992b3Aa635C04A311c54Ad264c",
+        "proxyAddress": "0xbD92C6c284271c227a1e0bF1786F468b539f51D9"
+    },
+    {
+        "name": "DAI / USD",
+        "category": "verified",
+        "path": "dai-usd",
+        "base": "DAI",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xbCe7579e241e5d676c2371Dc21891489dAcDA250",
+        "proxyAddress": "0x8dBa75e83DA73cc766A7e5a0ee71F656BAb470d6"
+    },
+    {
+        "name": "DOGE / USD",
+        "category": "verified",
+        "path": "doge-usd",
+        "base": "DOGE",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x8AfC1cC622Be1Cd1644579c9c7eC3fbbA6bD02d2",
+        "proxyAddress": "0xC6066533917f034Cf610c08e1fe5e9c7eADe0f54"
+    },
+    {
+        "name": "DYDX / USD",
+        "category": "verified",
+        "path": "dydx-usd",
+        "base": "DYDX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x19BcA7C81f3ed561a49326b78468EaC64D0E8F2a",
+        "proxyAddress": "0xee35A95c9a064491531493D8b380bC40A4CCd0Da"
+    },
+    {
+        "name": "ETH / USD",
+        "category": "verified",
+        "path": "eth-usd",
+        "base": "ETH",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x02f5E9e9dcc66ba6392f6904D5Fcf8625d9B19C9",
+        "proxyAddress": "0x13e3Ee699D1909E989722E753853AE30b17e08c5"
+    },
+    {
+        "name": "FIL / USD",
+        "category": "verified",
+        "path": "fil-usd",
+        "base": "FIL",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xB42F9F7c0F9997f62AE521CEF14B20a58bd9E088",
+        "proxyAddress": "0x66F61FEe824c1dF059BccCC5F21ca39e083EefDf"
+    },
+    {
+        "name": "FLOW / USD",
+        "category": "verified",
+        "path": "flow-usd",
+        "base": "FLOW",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x0542BbBfbc26A86EA92d2b7f6Da07DAf0CA091eD",
+        "proxyAddress": "0x2fF1EB7D0ceC35959F0248E9354c3248c6683D9b"
+    },
+    {
+        "name": "FRAX / USD",
+        "category": "monitored",
+        "path": "frax-usd",
+        "base": "FRAX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xaB544FDAD5F68f0F8e53284f942D76177635A3D6",
+        "proxyAddress": "0xc7D132BeCAbE7Dcc4204841F33bae45841e41D9C"
+    },
+    {
+        "name": "FTM / USD",
+        "category": "verified",
+        "path": "ftm-usd",
+        "base": "FTM",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x13f11f2139C10A48eCD7A6A14d804f90b2cFC89A",
+        "proxyAddress": "0xc19d58652d6BfC6Db6FB3691eDA6Aa7f3379E4E9"
+    },
+    {
+        "name": "FXS / USD",
+        "category": "verified",
+        "path": "fxs-usd",
+        "base": "FXS",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xc2212835DE6cb9Ef5e26b04E64f7798472Ff2812",
+        "proxyAddress": "0xB9B16330671067B1b062B9aC2eFd2dB75F03436E"
+    },
+    {
+        "name": "GMX / USD",
+        "category": "verified",
+        "path": "gmx-usd",
+        "base": "GMX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x0eDD9aC354033Ef766eCD45cb235d81139Df3d90",
+        "proxyAddress": "0x62f42f70ba85De1086476bB6BADE926d0E0b8a4C"
+    },
+    {
+        "name": "IMX / USD",
+        "category": "verified",
+        "path": "imx-usd",
+        "base": "IMX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x5D860ee3A9F47dfd86d40aec1EF7DDD876356F71",
+        "proxyAddress": "0x26Fce884555FAe5F0E4701cc976FE8D8bB111A38"
+    },
+    {
+        "name": "KNC / USD",
+        "category": "verified",
+        "path": "knc-usd",
+        "base": "KNC",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xe4391393205B6265585250E7A026103a0D1E168d",
+        "proxyAddress": "0xCB24d22aF35986aC1feb8874AdBbDF68f6dC2e96"
+    },
+    {
+        "name": "LDO / USD",
+        "category": "verified",
+        "path": "ldo-usd",
+        "base": "LDO",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xB6b7B9b2362F87F204f1CCadDD8832D3a0557dce",
+        "proxyAddress": "0x221618871470f78D8a3391d35B77dFb3C0fbc383"
+    },
+    {
+        "name": "LINK / ETH",
+        "category": "verified",
+        "path": "link-eth",
+        "base": "LINK",
+        "quote": "ETH",
+        "decimals": 18,
+        "contractAddress": "0xE67a10DA53Fcd59fae7e47F155c290cb5Defb4B0",
+        "proxyAddress": "0x464A1515ADc20de946f8d0DEB99cead8CEAE310d"
+    },
+    {
+        "name": "LINK / USD",
+        "category": "verified",
+        "path": "link-usd",
+        "base": "LINK",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x5d101824C693C70a68FFc3CDb0Cc394F3a4fb9Ec",
+        "proxyAddress": "0xCc232dcFAAE6354cE191Bd574108c1aD03f86450"
+    },
+    {
+        "name": "LOOKS / USD",
+        "category": "verified",
+        "path": "looks-usd",
+        "base": "LOOKS",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x5D7332Adf81c9E7372779E5F2F255B0A6E222fe1",
+        "proxyAddress": "0xd682c5f1A8eaA2389D6f8Fa43067956C2386a557"
+    },
+    {
+        "name": "LTC / USD",
+        "category": "verified",
+        "path": "ltc-usd",
+        "base": "LTC",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xfC7608cf76F489191Cb319DD6167aEEE387Bb251",
+        "proxyAddress": "0x45954efBD01f5A12428A09E4C38b8434C3dD4Ac3"
+    },
+    {
+        "name": "LUSD / USD",
+        "category": "monitored",
+        "path": "lusd-usd",
+        "base": "LUSD",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x19dC743a5E9a73eefAbA7047C7CEeBc650F37336",
+        "proxyAddress": "0x9dfc79Aaeb5bb0f96C6e9402671981CdFc424052"
+    },
+    {
+        "name": "MATIC / USD",
+        "category": "verified",
+        "path": "matic-usd",
+        "base": "MATIC",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x1C1df24f0d06415fc3F58b1c1fDadd5fC85d2950",
+        "proxyAddress": "0x0ded608AFc23724f614B76955bbd9dFe7dDdc828"
+    },
+    {
+        "name": "MIMATIC / USD",
+        "category": "monitored",
+        "path": "mimatic-usd",
+        "base": "MIMATIC",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x1C1245eEfB57d50F90EFc4070b508f4f24c3aB7A",
+        "proxyAddress": "0x73A3919a69eFCd5b19df8348c6740bB1446F5ed0"
+    },
+    {
+        "name": "NEAR / USD",
+        "category": "verified",
+        "path": "near-usd",
+        "base": "NEAR",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xf9eCc598293bd5Fb4F700AEB5C4Fb63B23CFE8Aa",
+        "proxyAddress": "0xca6fa4b8CB365C02cd3Ba70544EFffe78f63ac82"
+    },
+    {
+        "name": "ONE / USD",
+        "category": "verified",
+        "path": "one-usd",
+        "base": "ONE",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x663ed3D2aB9F8d5282a94BA4636E346e59bDdEB9",
+        "proxyAddress": "0x7CFB4fac1a2FDB1267F8bc17FADc12804AC13CFE"
+    },
+    {
+        "name": "OP / USD",
+        "category": "verified",
+        "path": "op-usd",
+        "base": "OP",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x4F6dFDFd4d68F68b2692E79f9e94796fC8015770",
+        "proxyAddress": "0x0D276FC14719f9292D5C1eA2198673d1f4269246"
+    },
+    {
+        "name": "PERP / USD",
+        "category": "verified",
+        "path": "perp-usd",
+        "base": "PERP",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xE18a4E99F019F92CD72E0C7C05599d76a89296Cd",
+        "proxyAddress": "0xA12CDDd8e986AF9288ab31E58C60e65F2987fB13"
+    },
+    {
+        "name": "RUNE / USD",
+        "category": "verified",
+        "path": "rune-usd",
+        "base": "RUNE",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x1aafcf49E103a71b31506Cb05FB072ED1B5b0414",
+        "proxyAddress": "0x372cc5e685115A56F14fa7e4716F1294e04c278A"
+    },
+    {
+        "name": "SAND / USD",
+        "category": "verified",
+        "path": "sand-usd",
+        "base": "SAND",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x5d1345669278128B77AF9662C5D6B5e0b2FFD54A",
+        "proxyAddress": "0xAE33e077a02071E62d342E449Afd9895b016d541"
+    },
+    {
+        "name": "SHIB / USD",
+        "category": "verified",
+        "path": "shib-usd",
+        "base": "SHIB",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xB6B77f1696bc4F95860228286d27f7f4df5D26e4",
+        "proxyAddress": "0xd1e56e7657C0E0d20c0e11C2B6ae0D90932d5665"
+    },
+    {
+        "name": "SNX / USD",
+        "category": "verified",
+        "path": "snx-usd",
+        "base": "SNX",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x584F57911b6EEDab5503E202f8e193663c9bd3DB",
+        "proxyAddress": "0x2FCF37343e916eAEd1f1DdaaF84458a359b53877"
+    },
+    {
+        "name": "SOL / USD",
+        "category": "verified",
+        "path": "sol-usd",
+        "base": "SOL",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x92C9B9C512759f5D04563eFa3698FC4fbF735d59",
+        "proxyAddress": "0xC663315f7aF904fbbB0F785c32046dFA03e85270"
+    },
+    {
+        "name": "STETH / USD",
+        "category": "verified",
+        "path": "steth-usd",
+        "base": "STETH",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x12922291D1FcD0d121B5C88f061047fE18732743",
+        "proxyAddress": "0x41878779a388585509657CE5Fb95a80050502186"
+    },
+    {
+        "name": "SUSD / USD",
+        "category": "monitored",
+        "path": "susd-usd",
+        "base": "SUSD",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x17D582034c038BaEb17A9E2A969d06f550d3586b",
+        "proxyAddress": "0x7f99817d87baD03ea21E05112Ca799d715730efe"
+    },
+    {
+        "name": "UNI / USD",
+        "category": "verified",
+        "path": "uni-usd",
+        "base": "UNI",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x85A48ded8c35d82f8f29844e25dD51a70a23c93d",
+        "proxyAddress": "0x11429eE838cC01071402f21C219870cbAc0a59A0"
+    },
+    {
+        "name": "USDC / USD",
+        "category": "verified",
+        "path": "usdc-usd",
+        "base": "USDC",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xd1Cb03cc31caa72D34dba7eBE21897D9580c4AF0",
+        "proxyAddress": "0x16a9FA2FDa030272Ce99B29CF780dFA30361E0f3"
+    },
+    {
+        "name": "USDT / USD",
+        "category": "verified",
+        "path": "usdt-usd",
+        "base": "USDT",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xAc37790fF4aBf9483fAe2D1f62fC61fE6b8E4789",
+        "proxyAddress": "0xECef79E109e997bCA29c1c0897ec9d7b03647F5E"
+    },
+    {
+        "name": "WAVES / USD",
+        "category": "verified",
+        "path": "waves-usd",
+        "base": "WAVES",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x503465204d3e093146B1E8762e2b221240E0eDA7",
+        "proxyAddress": "0x776003ECdF644F87a95B05da549b5e646d5F2Ae4"
+    },
+    {
+        "name": "WBTC / USD",
+        "category": "verified",
+        "path": "wbtc-usd",
+        "base": "WBTC",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x65F2c716937FB44b2C28417A7AfC2DACcF1C2D61",
+        "proxyAddress": "0x718A5788b89454aAE3A028AE9c111A29Be6c2a6F"
+    },
+    {
+        "name": "WSTETH / ETH",
+        "category": "verified",
+        "path": "wsteth-eth",
+        "base": "WSTETH",
+        "quote": "ETH",
+        "decimals": 18,
+        "contractAddress": "0x034f1d70092e81b7738459f02F409a5c5c4b8189",
+        "proxyAddress": "0x524299Ab0987a7c4B3c8022a35669DdcdC715a10"
+    },
+    {
+        "name": "wstETH-stETH Exchange Rate",
+        "category": "verified",
+        "path": "wsteth-steth",
+        "base": "WSTETH",
+        "quote": "STETH",
+        "decimals": 18,
+        "contractAddress": "0x6E7A3ceB4797D0Fd7b9854B251929ad68849951a",
+        "proxyAddress": "0xe59EBa0D492cA53C6f46015EEa00517F2707dc77"
+    },
+    {
+        "name": "WSTETH / USD",
+        "category": "verified",
+        "path": "wsteth-usd",
+        "base": "WSTETH",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x0d110cC7876d73c3C4190324bCF4C59416bBD259",
+        "proxyAddress": "0x698B585CbC4407e2D54aa898B2600B53C68958f7"
+    },
+    {
+        "name": "XMR / USD",
+        "category": "verified",
+        "path": "xmr-usd",
+        "base": "XMR",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0xDa6fCf88c718eCEB18c2c08A543562b1146F4996",
+        "proxyAddress": "0x2a8D91686A048E98e6CCF1A89E82f40D14312672"
+    },
+    {
+        "name": "ZIL / USD",
+        "category": "verified",
+        "path": "zil-usd",
+        "base": "ZIL",
+        "quote": "USD",
+        "decimals": 8,
+        "contractAddress": "0x397c2082dA7A0962A4FBF14e62E72dbCefB7a7Dc",
+        "proxyAddress": "0x1520874FC216f5F07E03607303Df2Fda6C3Fc203"
+    }
+]
