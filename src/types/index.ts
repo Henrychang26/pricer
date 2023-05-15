@@ -41,3 +41,5 @@ export interface AggregatorModel {
   contractAddress: string;
   proxyAddress: string | null;
 }
+
+export type Provider = JsonRpcProvider;
