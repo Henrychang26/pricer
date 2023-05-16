@@ -22,13 +22,13 @@ interface Result {
   success: boolean;
   returnData: BytesLike;
 }
-
 const getCallInputs = (
   targets: string[],
   contractInterface: utils.Interface,
   signatures: string[],
   args: any[] = []
 ) => {
+  //** */
   return targets.flatMap((target) => {
     return signatures.map(
       (signature, idx) =>
@@ -68,8 +68,10 @@ export class MulticallService extends BaseService<IMulticall3> {
     allowFailure: boolean = true,
     displayTarget: boolean = false
   ) {
+    //Sort individual calls by mapping them as CallInput type
     const inputs = getCallInputs(targets, contractInterface, signatures, args);
 
+    //Collect each call and sort them into array(needed to for aggregate3())
     const calls = inputs.map(({ target, encoder }) => ({
       target,
       allowFailure,
@@ -78,13 +80,16 @@ export class MulticallService extends BaseService<IMulticall3> {
 
     const multicall3 = this.getContract();
 
+    //Output from multicall interface
     const outputs: Result[] = await multicall3.callStatic.aggregate3(calls);
 
+    //Map out outputs=> destructure Result type and give them index
     return outputs.map(({ success, returnData }, idx) => {
       const target = inputs[idx].target;
 
       let result: any = null;
 
+      //If success decode data
       if (!!success) {
         try {
           const decodedData = inputs[idx].decoder(returnData);
