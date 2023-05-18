@@ -131,17 +131,18 @@ export class V3PricePoolService extends BaseService<IUniswapV3Pool> {
     const { tickCumulatives } = await pool.observe([period, 0]);
 
     //Calculate the difference by plugging in each point of time
-    const tickCumulativesDetla = +tickCumulatives[period]
-      .sub(tickCumulatives[0])
-      .toString();
+    // const test: BigNumber = tickCumulatives[period];
+    const tickCumulativesDetla = +tickCumulatives[1].sub(tickCumulatives[0]);
 
     //Change in ticks / change in time
     let twapTick = tickCumulativesDetla / period;
 
-    //Negative change in value???
+    //If negative, round down by 1
+    //To align with tickCumlativeDelta
     if (tickCumulativesDetla < 0 && tickCumulativesDetla % period != 0) {
       twapTick--;
     }
+    //delta = -10  period = 6   => -10/6=> -16/6    modulus = 4
     return Math.round(twapTick);
   }
 
@@ -195,3 +196,32 @@ export class V3PricePoolService extends BaseService<IUniswapV3Pool> {
     })) as { id: number; network: string }[];
   }
 }
+
+/**
+ * 
+ * TypeChain and ethers.js serve different purposes in the context of smart contract development.
+
+TypeChain is a code generation tool that generates TypeScript typings for your smart contracts based on their ABIs. 
+It provides type-safe contract factories, allowing you to interact with your contracts in a type-safe manner. 
+This means that you can write code with autocompletion, type checking, and IDE support,
+ which helps prevent common mistakes and improves developer productivity. TypeChain also provides 
+ TypeScript typings for events emitted by the contracts, making it easier to work with event data.
+
+Ethers.js, on the other hand, is a JavaScript/TypeScript library that provides a powerful and flexible API for interacting with 
+Ethereum. It allows you to connect to Ethereum networks, send transactions, interact with smart contracts, listen to events, 
+and perform various other operations. Ethers.js is widely used and has extensive community support.
+
+So, to summarize:
+
+TypeChain is primarily focused on generating type-safe contract factories and typings for your contracts, 
+improving developer experience and reducing the likelihood of errors during contract interactions.
+
+Ethers.js is a versatile library that provides a broad range of Ethereum-related functionality,
+ including contract interaction, transaction management, event handling, and more. It offers flexibility 
+ and control over Ethereum interactions and is widely used in the ecosystem.
+
+Both TypeChain and ethers.js have their strengths and can be used together in a smart contract project. 
+TypeChain enhances type safety and developer experience, while ethers.js provides a comprehensive set of 
+tools and utilities for Ethereum development. Whether to use one or the other, or both, depends on your specific
+ requirements, preferences, and the complexity of your project.
+ */

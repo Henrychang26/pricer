@@ -1,0 +1,60 @@
+feedKeys:
+Map<string, string[]> = new Map();
+Can be retrieved by getFeedKeys() => return an array of Key specific to ticker;
+'1INCH' => [ '1INCH-ETH', '1INCH-USD' ],
+  'ETH' => [ '1INCH-ETH', 'AAVE-ETH', 'ALCX-ETH', 'ALPHA-ETH' ],
+  'USD' => [ '1INCH-USD', 'AAVE-USD', 'ADA-USD', 'ADX-USD', 'ALCX-USD' ],
+  'AAVE' => [ 'AAVE-ETH', 'AAVE-USD' ],
+  'ADA' => [ 'ADA-USD' ],
+  'ADX' => [ 'ADX-USD' ],
+  'ALCX' => [ 'ALCX-ETH', 'ALCX-USD' ],
+  'ALPHA' => [ 'ALPHA-ETH' ],
+  'AMPL' => [ 'AMPL-ETH' ]
+
+
+tokens: 
+Set<string> = new Set();
+{
+  '1INCH',
+  'ETH',
+  'USD',
+  'AAVE',
+  'ADA',
+  'ADX',
+  'ALCX',
+  'ALPHA',
+  'AMPL'
+}
+
+quotes:
+string[] = [];
+[ 'ETH', 'USD' , 'USD']
+
+feeds: 
+Mapping<AggregatorModel> = {};
+can be retrieved by getFeed(base, quote)
+//Pass in base/quote => sorts into key and search in feeds array
+{
+  '1INCH-ETH': {
+    name: '1INCH / ETH',
+    category: 'verified',
+    path: '1inch-eth',
+    base: '1INCH',
+    quote: 'ETH',
+    decimals: 18,
+    contractAddress: '0xb2F68c82479928669B0487D1dAeD6Ef47b63411e',
+    proxyAddress: '0x72AFAECF99C9d9C8215fF44C77B94B99C28741e8'
+  }
+}
+{
+  '1INCH-ETH': {
+    name: '1INCH / ETH',
+    category: 'verified',
+    path: '1inch-eth',
+    base: '1INCH',
+    quote: 'ETH',
+    decimals: 18,
+    contractAddress: '0xb2F68c82479928669B0487D1dAeD6Ef47b63411e',
+    proxyAddress: '0x72AFAECF99C9d9C8215fF44C77B94B99C28741e8'
+  }
+}
